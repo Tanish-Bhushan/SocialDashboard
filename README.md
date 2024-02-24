@@ -1,10 +1,12 @@
 Download the folders
 
 ******************************* Frontend *********************************************
+
 Goto frontend and run npm i in terminal to install all dependencies
 
 
 ******************************** Backend ***********************************************
+
 Goto backend and create
 1.python -m venv <Virtual Environment Name>
 2.<Virtual Environment Name>\scripts\activate
