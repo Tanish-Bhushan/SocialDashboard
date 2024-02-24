@@ -1,6 +1,6 @@
 Download the folders
 
-******************************* Frontend **********************************************
+******************************* Frontend *********************************************
 Goto frontend and run npm i in terminal to install all dependencies
 
 
